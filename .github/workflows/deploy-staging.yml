@@ -1,3 +1,4 @@
+# Runs when a PR is labeled with "stage".
 name: Stage the app
 
 on:
